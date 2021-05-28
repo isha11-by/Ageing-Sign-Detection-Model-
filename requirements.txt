@@ -1,0 +1,6 @@
+tensorflow==2.5.0
+Pillow==7.1.2
+pathlib==1.0.1
+numpy==1.19.5
+matplotlib==3.2.2
+dlib==19.18.0
